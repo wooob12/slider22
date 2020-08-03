@@ -1,5 +1,5 @@
 body {
-    background:#c7b30c;
+    background:#fff;
     margin:30px;
 }
 #wrapper {
@@ -19,7 +19,7 @@ h1 {
     font-size: 150%;
     font-weight: bold;
     text-align: center;
-    color:#fff;
+    color:#190b07;
 }
 input{
     width: 100px;
@@ -28,7 +28,7 @@ input{
     text-align: center;
     font-size: 170%;
     font-weight: bold;
-    color:#cc0000;
+    color:#190b07;
 }
 
 #contents p {
