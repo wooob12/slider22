@@ -35,13 +35,8 @@ input{
     columns: #190b07;;
 }
 
-#slider-bar{
-    color : black;
-}
+
 
 #slider-bar {
-	float: left;
-	clear: left;
-    width: 600px;
-	margin: 15px;
+	background-color : black;
 }
