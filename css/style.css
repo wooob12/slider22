@@ -34,3 +34,7 @@ input{
 #contents p {
     columns: #190b07;;
 }
+
+#slider-bar{
+    color : black;
+}
