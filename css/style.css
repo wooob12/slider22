@@ -38,3 +38,10 @@ input{
 #slider-bar{
     color : black;
 }
+
+#slider-bar {
+	float: left;
+	clear: left;
+    width: 600px;
+	margin: 15px;
+}
